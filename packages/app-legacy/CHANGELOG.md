@@ -1,5 +1,26 @@
 # example-app-legacy
 
+## 0.2.122-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@3.1.0-next.2
+  - @backstage/ui@0.15.1-next.1
+  - @backstage/plugin-api-docs@0.14.2-next.2
+  - @backstage/plugin-catalog@2.0.6-next.2
+  - @backstage/plugin-catalog-graph@0.6.5-next.2
+  - @backstage/plugin-catalog-import@0.13.14-next.2
+  - @backstage/plugin-home@0.9.7-next.2
+  - @backstage/plugin-kubernetes@0.12.20-next.2
+  - @backstage/plugin-kubernetes-cluster@0.0.38-next.2
+  - @backstage/plugin-org@0.7.5-next.2
+  - @backstage/plugin-scaffolder@1.38.0-next.2
+  - @backstage/plugin-scaffolder-react@2.0.1-next.2
+  - @backstage/plugin-search@1.7.5-next.2
+  - @backstage/plugin-techdocs@1.17.7-next.2
+  - @backstage/plugin-user-settings@0.9.4-next.2
+
 ## 0.2.122-next.1
 
 ### Patch Changes

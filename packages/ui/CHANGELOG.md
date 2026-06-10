@@ -1,5 +1,13 @@
 # @backstage/ui
 
+## 0.15.1-next.1
+
+### Patch Changes
+
+- b06b3c7: Fixed header tab links to respect the configured router `basename`.
+
+  **Affected components:** Header
+
 ## 0.15.1-next.0
 
 ### Patch Changes
